@@ -1,0 +1,3 @@
+# Rent Mamnagement System
+
+Tthis app is used for managing the rental properities.
